@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-22T10:43:59.969Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.48" etag="SPnRZIDbjka30OuFeQSt" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-22T10:45:08.491Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.48" etag="0Gm0TAth-1hTnLt4chur" version="21.2.1" type="github">
   <diagram name="Page-1" id="GyhTvYxpTi9NaX24lL62">
     <mxGraphModel dx="954" dy="584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -63,7 +63,7 @@
           <mxGeometry x="461" y="455" width="94.75" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dkxHMAZWF8WOhDouRX5H-23" value="Pick the sizes of :&lt;br&gt;&lt;div&gt;1: Shirt&lt;/div&gt;&lt;div&gt;2: Waist&lt;/div&gt;&lt;div&gt;3: Inseam&lt;/div&gt;&lt;div&gt;4: Blazer&lt;/div&gt;&lt;div&gt;5: Shoe&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="810" y="280" width="153" height="90" as="geometry" />
+          <mxGeometry x="810" y="240" width="153" height="130" as="geometry" />
         </mxCell>
         <mxCell id="dkxHMAZWF8WOhDouRX5H-32" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="dkxHMAZWF8WOhDouRX5H-25" target="3" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -133,7 +133,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dkxHMAZWF8WOhDouRX5H-50" value="When you try on shirts, how do the sleeves tend to fit?&lt;br&gt;&lt;br&gt;Too short / Just right / Too long" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="820" y="90" width="120" height="95" as="geometry" />
+          <mxGeometry x="820" y="60" width="120" height="125" as="geometry" />
         </mxCell>
         <mxCell id="dkxHMAZWF8WOhDouRX5H-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="dkxHMAZWF8WOhDouRX5H-52" target="dkxHMAZWF8WOhDouRX5H-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -185,7 +185,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dkxHMAZWF8WOhDouRX5H-65" value="Loading: Great!&amp;nbsp; we are picking up your style vibe" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1301" y="580" width="280" height="30" as="geometry" />
+          <mxGeometry x="1260" y="580" width="321" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dkxHMAZWF8WOhDouRX5H-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="dkxHMAZWF8WOhDouRX5H-68" target="dkxHMAZWF8WOhDouRX5H-70" edge="1">
           <mxGeometry relative="1" as="geometry" />
